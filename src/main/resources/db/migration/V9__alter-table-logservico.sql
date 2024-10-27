@@ -1,0 +1,1 @@
+ALTER TABLE logservico ADD COLUMN observacao VARCHAR(50) NOT NULL;
